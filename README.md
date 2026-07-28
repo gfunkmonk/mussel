@@ -152,6 +152,7 @@ support all listed architectures, and a wrapper around host's `meson`
 - [glaucus](https://glaucuslinux.org/)
 - [Hadron](https://hadron-linux.io/)
 - [Hanh Linux](https://hanh-linux.github.io/)
+- [Leanix's maintainer-utils](https://codeberg.org/leanix/maintainer-utils)
 - [qLinux](https://qlinux.qware.org/doku.php)
 - [Raptix](https://github.com/dslm4515/Raptix)
 - [Spider Linux](https://github.com/spider-linux/spiderlinux)
